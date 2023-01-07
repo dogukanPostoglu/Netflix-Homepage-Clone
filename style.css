@@ -79,6 +79,7 @@
             width: 15rem;
             border: 1px solid #ddd;
             display: none;
+            background: black;
         }
 
         .dropdown-content a {
